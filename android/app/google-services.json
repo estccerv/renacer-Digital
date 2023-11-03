@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1084615168058",
+    "project_id": "nftslatam-123",
+    "storage_bucket": "nftslatam-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084615168058:android:475a50ce201b7d68d0e503",
+        "android_client_info": {
+          "package_name": "nftslatam.art"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084615168058-sgk4ufjec9t3pks4k6us4onmblbbeplt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nftslatam.art",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1084615168058-3ol314uv7oj1v2cn66u0e12mvhdiov71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA96XR9xwmjs85rmjVklAVr7QaVsuB9j5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084615168058-3ol314uv7oj1v2cn66u0e12mvhdiov71.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1084615168058-br50pgaev6g6aciaf7j8iv5pr33l20gq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nftslatam.art"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
